@@ -1,0 +1,221 @@
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe.config
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.pdb
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.AssemblyReference.cache
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Form1.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Properties.Resources.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.GenerateResource.cache
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.CoreCompileInputs.cache
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.exe
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.pdb
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.SuggestedBindingRedirects.cache
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.gopy.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Hoadonban.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.KhachHang.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhaCungCap.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhanVien.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Sanpham.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.hangton.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.frmain.resources
+D:\1\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Trogiup.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe.config
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.pdb
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.AssemblyReference.cache
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.SuggestedBindingRedirects.cache
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Form1.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.gopy.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Hoadonban.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.KhachHang.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.frmain.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhaCungCap.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhanVien.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Properties.Resources.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Sanpham.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.hangton.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Trogiup.resources
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.GenerateResource.cache
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.CoreCompileInputs.cache
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.exe
+C:\Users\LNV\Desktop\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.pdb
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe.config
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.pdb
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.AssemblyReference.cache
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Form1.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.gopy.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Hoadonban.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.KhachHang.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.frmain.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhaCungCap.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhanVien.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Properties.Resources.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Sanpham.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.hangton.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Trogiup.resources
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.GenerateResource.cache
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.exe
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.pdb
+C:\Users\LAPTOP MSI\Downloads\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.PhieuNhap.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe.config
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.pdb
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.AssemblyReference.cache
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.SuggestedBindingRedirects.cache
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Form1.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.gopy.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Hoadonban.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.KhachHang.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.frmain.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhaCungCap.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhanVien.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.PhieuNhap.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Properties.Resources.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Sanpham.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.hangton.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Trogiup.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.GenerateResource.cache
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.CoreCompileInputs.cache
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.exe
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.pdb
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EntityFramework.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EntityFramework.SqlServer.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EntityFramework.xml
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EntityFramework.SqlServer.xml
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.CopyComplete
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.RPHDB.resources
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\hdb.rdlc
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EnvDTE.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\stdole.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EnvDTE.xml
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\c#\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\hdb.rdlc
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe.config
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.exe
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Dang_nhap.pdb
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EntityFramework.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EntityFramework.SqlServer.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EnvDTE.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\stdole.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EntityFramework.xml
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\EntityFramework.SqlServer.xml
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.AssemblyReference.cache
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Form1.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.gopy.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Hoadonban.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.KhachHang.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.frmain.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhaCungCap.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.NhanVien.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.PhieuNhap.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Properties.Resources.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.RPHDB.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Sanpham.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.hangton.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.Trogiup.resources
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.GenerateResource.cache
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.CoreCompileInputs.cache
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.csproj.CopyComplete
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.exe
+D:\java\c\Nhóm 12_quanlybanhangcuahangtienloicircleK_5061\QuanLycuahangCircleK\Dang_nhap\obj\Debug\Dang_nhap.pdb
